@@ -186,7 +186,7 @@ SET is compatible with the following networking technologies in Windows Server 2
 
 - Virtual Machine Queues \(VMQ\)
 
-- Virtual Receive Side Scaling \(RSS\)
+- Virtual Receive Side Scaling \(vRSS\)
 
 SET is not compatible with the following networking technologies in Windows Server 2016.
 
